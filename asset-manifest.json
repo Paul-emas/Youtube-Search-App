@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/youtube-search-app/static/js/main.e2228f25.chunk.js",
-    "main.js.map": "/youtube-search-app/static/js/main.e2228f25.chunk.js.map",
-    "runtime-main.js": "/youtube-search-app/static/js/runtime-main.1d0fd076.js",
-    "runtime-main.js.map": "/youtube-search-app/static/js/runtime-main.1d0fd076.js.map",
-    "static/js/2.7abeb445.chunk.js": "/youtube-search-app/static/js/2.7abeb445.chunk.js",
-    "static/js/2.7abeb445.chunk.js.map": "/youtube-search-app/static/js/2.7abeb445.chunk.js.map",
-    "index.html": "/youtube-search-app/index.html",
-    "static/js/2.7abeb445.chunk.js.LICENSE.txt": "/youtube-search-app/static/js/2.7abeb445.chunk.js.LICENSE.txt"
+    "main.js": "/youtube-video-app/static/js/main.e2228f25.chunk.js",
+    "main.js.map": "/youtube-video-app/static/js/main.e2228f25.chunk.js.map",
+    "runtime-main.js": "/youtube-video-app/static/js/runtime-main.2faab3ec.js",
+    "runtime-main.js.map": "/youtube-video-app/static/js/runtime-main.2faab3ec.js.map",
+    "static/js/2.7abeb445.chunk.js": "/youtube-video-app/static/js/2.7abeb445.chunk.js",
+    "static/js/2.7abeb445.chunk.js.map": "/youtube-video-app/static/js/2.7abeb445.chunk.js.map",
+    "index.html": "/youtube-video-app/index.html",
+    "static/js/2.7abeb445.chunk.js.LICENSE.txt": "/youtube-video-app/static/js/2.7abeb445.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1d0fd076.js",
+    "static/js/runtime-main.2faab3ec.js",
     "static/js/2.7abeb445.chunk.js",
     "static/js/main.e2228f25.chunk.js"
   ]
